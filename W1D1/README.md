@@ -47,20 +47,30 @@
 table {
     width:100%;
 }
+
+/* 同时选取所有table, th, td元素 */
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
 }
+
+/* 同时选取所有th, td元素 */
 th, td {
     padding: 5px;
     text-align: left;
 }
+
+/* 选取id为t01的table元素中的所有偶数tr子元素 */
 table#t01 tr:nth-child(even) {
     background-color: #eee;
 }
+
+/* 选取id为t01的table元素中的所有奇数tr子元素*/
 table#t01 tr:nth-child(odd) {
    background-color:#fff;
 }
+
+/* 选取id为t01的table元素下的所有th子元素 */
 table#t01 th {
     background-color: black;
     color: white;
