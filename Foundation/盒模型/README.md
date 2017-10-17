@@ -4,6 +4,7 @@
 >* 什么是盒模型
 >* `content` `padding` `border` `margin` 属性
 >* 外边距塌陷(margin collapsing)
+>* `width` `heigh` 属性
 >* 盒子总宽度和总高度计算
 >* `box-sizing` 属性
 >* `overflow` 属性
