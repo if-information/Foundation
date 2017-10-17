@@ -1,5 +1,5 @@
 ### Demo
-![](../../images_wiki/alert_buttons.gif)
+![](../../images/alert_buttons.gif)
 
 [w3schools链接](https://www.w3schools.com/howto/howto_css_alert_buttons.asp)
 

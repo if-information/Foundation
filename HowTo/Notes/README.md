@@ -1,5 +1,5 @@
 ### Demo
-![](../../images_wiki/notes.png)
+![](../../images/notes.png)
 
 [w3schools链接](https://www.w3schools.com/howto/howto_css_notes.asp)
 
