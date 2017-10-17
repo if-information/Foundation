@@ -8,8 +8,7 @@
 ![](../../images/box-model-standard-small.png)
 
 
-
-
+## Box 属性
 #### `width` 和 `height`: 
 `width` 和 `height` 设置内容区(content box)的宽度和高度. 内容盒是盒子内容显示的区域--包括盒子内的文本内容, 以及表示嵌套子元素的其它盒子.
 
@@ -29,6 +28,9 @@ CSS盒的边框(border)是一个分隔层, 位于内边距的外边缘以及外�
 
 #### `margin`:
 外边距(margin)代表CSS盒子周围的外部区域, 在布局中推开其它CSS盒子. 其表现与padding很相似. 简写属性 `margin`, 单个属性分别为 `margin-top` `margin-right` `margin-bottom` `margin-left`
+
+
+> 注意: 外边距有一个特别的行为被称作[外边距塌陷(margin collapsing)](): 当两个盒子彼此接触时, 他们的间距将取两个相邻外边距框的最大值, 而非两者的总和.
 
  
     
