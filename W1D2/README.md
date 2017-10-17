@@ -8,7 +8,7 @@
 
 #### 4. CSS边框
 
-## 代码任务(300行)
+## 代码清单
 * [CSS Box Model](http://w3schools.bootcss.com/css/css_boxmodel.html)
 
 * [CSS Borders](http://w3schools.bootcss.com/css/css_border.html)

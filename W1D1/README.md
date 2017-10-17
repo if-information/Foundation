@@ -11,7 +11,7 @@
 
 #### 6. 常用HTML属性 
 
-## 代码任务(300行)
+## 代码清单
 * [HTML Introduction](http://w3schools.bootcss.com/html/html_intro.html)
 
 * [HTML Basic](http://w3schools.bootcss.com/html/html_basic.html)
