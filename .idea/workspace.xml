@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50292c58-4dc4-410f-b401-ebd3510b1745" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/overflow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foundation/外边距塌陷/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foundation/盒模型/README.md" afterPath="$PROJECT_DIR$/Foundation/盒模型/README.md" />
     </list>
@@ -32,8 +34,26 @@
         <entry file="file://$PROJECT_DIR$/Foundation/盒模型/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="518">
-                <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+              <first_editor relative-caret-position="326">
+                <caret line="89" column="30" lean-forward="true" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+                <folding>
+                  <marker date="1508226391000" expanded="true" signature="1506:1852" ph="..." />
+                  <marker date="1508226391000" expanded="true" signature="1873:2219" ph="..." />
+                  <marker date="1508226391000" expanded="true" signature="2240:2586" ph="..." />
+                  <marker date="1508226391000" expanded="true" signature="2618:2713" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Foundation/外边距塌陷/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="48">
+                <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -61,6 +81,7 @@
         <option value="$PROJECT_DIR$/W1D1/README.md" />
         <option value="$PROJECT_DIR$/HowTo/Alert_Buttons/README.md" />
         <option value="$PROJECT_DIR$/HowTo/Notes/README.md" />
+        <option value="$PROJECT_DIR$/Foundation/外边距塌陷/README.md" />
         <option value="$PROJECT_DIR$/Foundation/盒模型/README.md" />
       </list>
     </option>
@@ -150,6 +171,12 @@
               <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="外边距塌陷" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="盒模型" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -205,7 +232,7 @@
       <updated>1507534895880</updated>
       <workItem from="1507534897222" duration="2091000" />
       <workItem from="1508210337580" duration="1697000" />
-      <workItem from="1508220317830" duration="3194000" />
+      <workItem from="1508220317830" duration="4475000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1508224751745</created>
@@ -214,11 +241,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508224751745</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1508225003843</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1508225003843</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6982000" />
+    <option name="totallyTimeSpent" value="8263000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -233,14 +267,14 @@
     <frame x="28" y="22" width="1252" height="778" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08677686" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15041323" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -629,12 +663,28 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Foundation/外边距塌陷/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="48">
+            <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Foundation/盒模型/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="518">
-            <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-            <folding />
+          <first_editor relative-caret-position="326">
+            <caret line="89" column="30" lean-forward="true" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+            <folding>
+              <marker date="1508226391000" expanded="true" signature="1506:1852" ph="..." />
+              <marker date="1508226391000" expanded="true" signature="1873:2219" ph="..." />
+              <marker date="1508226391000" expanded="true" signature="2240:2586" ph="..." />
+              <marker date="1508226391000" expanded="true" signature="2618:2713" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>

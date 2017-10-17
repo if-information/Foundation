@@ -30,7 +30,74 @@ CSS盒的边框(border)是一个分隔层, 位于内边距的外边缘以及外�
 外边距(margin)代表CSS盒子周围的外部区域, 在布局中推开其它CSS盒子. 其表现与padding很相似. 简写属性 `margin`, 单个属性分别为 `margin-top` `margin-right` `margin-bottom` `margin-left`
 
 
-> 注意: 外边距有一个特别的行为被称作[外边距塌陷(margin collapsing)](): 当两个盒子彼此接触时, 他们的间距将取两个相邻外边距框的最大值, 而非两者的总和.
+> 注意: 外边距有一个特别的行为被称作[外边距塌陷(margin collapsing)](../外边距塌陷/README.md): 当两个盒子彼此接触时, 他们的间距将取两个相邻外边距框的最大值, 而非两者的总和.
 
- 
-    
+## Box其他常用属性
+
+#### `overflow`
+当你使用绝对值设置了一个盒子的大小(如固定像素的宽/高), 而此大小可能不适合放置内容,这种情况下内容会从盒子溢出. 我们使用 `overflow` 属性来控制这种情况的发生. 它有一些可能的值, 但是最常用的是:
+* `auto`: 当内容过多, 溢出的内容被隐藏, 然后出现滚动条来让我们滚动查看所有的内容.
+* `hidden`: 当内容过多, 溢出的内容被隐藏.
+* `visible`: 当内容过多, 溢出的内容被显示在盒子的外边(这是默认行为)
+
+该示例展示了这些设置是如何工作的:
+HTML代码:
+```html
+<p class="autoscroll">
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+   Mauris tempus turpis id ante mollis dignissim. Nam sed
+   dolor non tortor lacinia lobortis id dapibus nunc. Praesent
+   iaculis tincidunt augue. Integer efficitur sem eget risus
+   cursus, ornare venenatis augue hendrerit. Praesent non elit
+   metus. Morbi vel sodales ligula.
+</p>
+
+<p class="clipped">
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+   Mauris tempus turpis id ante mollis dignissim. Nam sed
+   dolor non tortor lacinia lobortis id dapibus nunc. Praesent
+   iaculis tincidunt augue. Integer efficitur sem eget risus
+   cursus, ornare venenatis augue hendrerit. Praesent non elit
+   metus. Morbi vel sodales ligula.
+</p>
+
+<p class="default">
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+   Mauris tempus turpis id ante mollis dignissim. Nam sed
+   dolor non tortor lacinia lobortis id dapibus nunc. Praesent
+   iaculis tincidunt augue. Integer efficitur sem eget risus
+   cursus, ornare venenatis augue hendrerit. Praesent non elit
+   metus. Morbi vel sodales ligula.
+</p>
+``` 
+
+应用到HTML的CSS代码:
+```css
+p {
+  width  : 400px;
+  height : 2.5em;
+  padding: 1em 1em 1em 1em;
+  border : 1px solid black;
+}
+
+.autoscroll { overflow: auto;    }
+.clipped    { overflow: hidden;  }
+.default    { overflow: visible; }
+```
+
+上面的代码显示如下效果: 
+
+![](../../images/overflow.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
