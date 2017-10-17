@@ -32,6 +32,14 @@ CSS盒的边框(border)是一个分隔层, 位于内边距的外边缘以及外�
 
 > 注意: 外边距有一个特别的行为被称作[外边距塌陷(margin collapsing)](../外边距塌陷/README.md): 当两个盒子彼此接触时, 他们的间距将取两个相邻外边距框的最大值, 而非两者的总和.
 
+
+## 盒子总宽度和总高度
+盒子的总宽度是 `width`+`padding-right`+`padding-left`+`border-right`+`border-left`+`margin-right`+`margin-left`之和(总高度同理). 但这样设置和计算盒子的宽度和高度比较麻烦. 可以使用 `box-sizing` 来调整盒子模型, 使用 `box-sizing: border-box`, 它将盒子模型更改成新的模型:
+
+![](../../images/box-model-alt-small.png)
+
+
+
 ## Box其他常用属性
 
 #### `overflow`
@@ -89,15 +97,46 @@ p {
 
 ![](../../images/overflow.png)
 
+#### `background-clip` 
+盒子的背景是由颜色和图片组成的. 它们堆叠在一起(`background-color` `background-image`). 它们被应用到一个盒子里, 然后被画在盒子的下面. 默认情况下, 背景延伸到了边框外边. 但有的时候你只想要它延伸到内容边界, 这可以通过设置盒子的 `background-clip` 属性来调整.
 
+示例的HTML代码:
+```html
+<div class="default"></div>
+<div class="padding-box"></div>
+<div class="content-box"></div>
+```
 
+CSS代码:
+```css
+div {
+  width  : 60px;
+  height : 60px;
+  border : 20px solid rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  margin : 20px 0;
 
+  background-size    : 140px;
+  background-position: center;
+  background-image   : url('https://mdn.mozillademos.org/files/11947/ff-logo.png');
+  background-color   : gold;
+}
 
+.default     { background-clip: border-box;  }
+.padding-box { background-clip: padding-box; }
+.content-box { background-clip: content-box; }
+```
 
+效果如下:
 
+![](../../images/background-clip.png)
 
+#### `outline`
+最后, 还有重要的一点, 一个盒子的outline是一个看起来像border但又不属于盒模型的东西. 它的行为和盒子边框差不多, 但是并不改变盒子的尺寸(更准确的说, outline是画在border外面, 外边距里面的)
 
+outline和border在以下不同:
+* outline不占据空间
+* outline可以是非矩形的. 在Gecko/Firefox中, outline是矩形的, 但是在Opera则会围绕元素结构绘制非矩形的形状.
 
-
-
+> Note: 使用outline属性的时候要注意, 它一般只在需要可用性的一些情况下被使用, 例如在一些用户点击它的时候使用outline来表示高亮, 可用. 如果你要使用outline, 请确保不要因为它看起来像链接的高亮让用户迷惑
 

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50292c58-4dc4-410f-b401-ebd3510b1745" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/overflow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foundation/外边距塌陷/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/background-clip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/box-model-alt-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foundation/盒模型/demo_background-clip.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foundation/盒模型/README.md" afterPath="$PROJECT_DIR$/Foundation/盒模型/README.md" />
     </list>
@@ -34,16 +35,27 @@
         <entry file="file://$PROJECT_DIR$/Foundation/盒模型/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="326">
-                <caret line="89" column="30" lean-forward="true" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+              <first_editor relative-caret-position="304">
+                <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
                 <folding>
-                  <marker date="1508226391000" expanded="true" signature="1506:1852" ph="..." />
-                  <marker date="1508226391000" expanded="true" signature="1873:2219" ph="..." />
-                  <marker date="1508226391000" expanded="true" signature="2240:2586" ph="..." />
-                  <marker date="1508226391000" expanded="true" signature="2618:2713" ph="{...}" />
+                  <marker date="1508228343000" expanded="true" signature="1774:2120" ph="..." />
+                  <marker date="1508228343000" expanded="true" signature="2141:2487" ph="..." />
+                  <marker date="1508228343000" expanded="true" signature="2508:2854" ph="..." />
+                  <marker date="1508228343000" expanded="true" signature="2886:2981" ph="{...}" />
+                  <marker date="1508228343000" expanded="true" signature="3463:3753" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_background-clip.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Foundation/盒模型/demo_background-clip.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -67,6 +79,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="markdown" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -82,6 +95,7 @@
         <option value="$PROJECT_DIR$/HowTo/Alert_Buttons/README.md" />
         <option value="$PROJECT_DIR$/HowTo/Notes/README.md" />
         <option value="$PROJECT_DIR$/Foundation/外边距塌陷/README.md" />
+        <option value="$PROJECT_DIR$/Foundation/盒模型/demo_overflow.html" />
         <option value="$PROJECT_DIR$/Foundation/盒模型/README.md" />
       </list>
     </option>
@@ -192,6 +206,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -232,7 +247,7 @@
       <updated>1507534895880</updated>
       <workItem from="1507534897222" duration="2091000" />
       <workItem from="1508210337580" duration="1697000" />
-      <workItem from="1508220317830" duration="4475000" />
+      <workItem from="1508220317830" duration="6350000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1508224751745</created>
@@ -248,11 +263,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508225003843</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1508226442229</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1508226442229</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8263000" />
+    <option name="totallyTimeSpent" value="10138000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -674,16 +696,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Foundation/盒模型/demo_background-clip.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Foundation/盒模型/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="326">
-            <caret line="89" column="30" lean-forward="true" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+          <first_editor relative-caret-position="304">
+            <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
             <folding>
-              <marker date="1508226391000" expanded="true" signature="1506:1852" ph="..." />
-              <marker date="1508226391000" expanded="true" signature="1873:2219" ph="..." />
-              <marker date="1508226391000" expanded="true" signature="2240:2586" ph="..." />
-              <marker date="1508226391000" expanded="true" signature="2618:2713" ph="{...}" />
+              <marker date="1508228343000" expanded="true" signature="1774:2120" ph="..." />
+              <marker date="1508228343000" expanded="true" signature="2141:2487" ph="..." />
+              <marker date="1508228343000" expanded="true" signature="2508:2854" ph="..." />
+              <marker date="1508228343000" expanded="true" signature="2886:2981" ph="{...}" />
+              <marker date="1508228343000" expanded="true" signature="3463:3753" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
