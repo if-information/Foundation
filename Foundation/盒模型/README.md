@@ -151,4 +151,3 @@ outline和border在以下不同:
 * outline可以是非矩形的. 在Gecko/Firefox中, outline是矩形的, 但是在Opera则会围绕元素结构绘制非矩形的形状.
 
 > Note: 使用outline属性的时候要注意, 它一般只在需要可用性的一些情况下被使用, 例如在一些用户点击它的时候使用outline来表示高亮, 可用. 如果你要使用outline, 请确保不要因为它看起来像链接的高亮让用户迷惑
-
