@@ -1,5 +1,16 @@
 # 盒模型 (Box Model)
 
+
+>* 什么是盒模型
+>* `content` `padding` `border` `margin` 属性
+>* 外边距塌陷(margin collapsing)
+>* 盒子总宽度和总高度计算
+>* `box-sizing` 属性
+>* `overflow` 属性
+>* `background-clip` 属性
+>* `outline` 属性
+
+
 盒模型是网页布局的基础
 
 在CSS中, 每个元素被表示(看做)为一个矩形的盒子
