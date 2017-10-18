@@ -20,6 +20,8 @@
 
 
 ## Demo 演示
+* 要求: 每个Demo完成3遍
+
 ![](../images/top-navigation.gif)
 
 [Top Navigation 代码清单](../HowTo/Top_Navigation/README.md)

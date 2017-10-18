@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50292c58-4dc4-410f-b401-ebd3510b1745" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HowTo/Pagination/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HowTo/Top_Navigation/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/button_group.gif" afterPath="$PROJECT_DIR$/images/button-group.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/topnavigation.gif" afterPath="$PROJECT_DIR$/images/top-navigation.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foundation/块元素和内联元素/README.md" afterPath="$PROJECT_DIR$/Foundation/块元素和内联元素/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W1D3/README.md" afterPath="$PROJECT_DIR$/W1D3/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,8 +56,8 @@
         <entry file="file://$PROJECT_DIR$/W1D3/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="216">
-                <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <first_editor relative-caret-position="576">
+                <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -313,7 +308,7 @@
       <workItem from="1508210337580" duration="1697000" />
       <workItem from="1508220317830" duration="12161000" />
       <workItem from="1508238767479" duration="9000" />
-      <workItem from="1508283381343" duration="1288000" />
+      <workItem from="1508283381343" duration="1394000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1508224751745</created>
@@ -406,11 +401,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508234571034</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update">
+      <created>1508284771542</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1508284771542</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17246000" />
+    <option name="totallyTimeSpent" value="17352000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -804,8 +806,8 @@
     <entry file="file://$PROJECT_DIR$/W1D3/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="216">
-            <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <first_editor relative-caret-position="576">
+            <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
