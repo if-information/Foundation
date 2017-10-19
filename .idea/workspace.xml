@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50292c58-4dc4-410f-b401-ebd3510b1745" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/inline_margin_padding.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foundation/块元素和内联元素/inline元素的margin_padding特性/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foundation/块元素和内联元素/inline元素的margin_padding特性/inline元素的margin_padding特性.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foundation/块元素和内联元素/README.md" afterPath="$PROJECT_DIR$/Foundation/块元素和内联元素/README.md" />
     </list>
@@ -57,12 +54,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Foundation/块元素和内联元素/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="336">
-                <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <first_editor relative-caret-position="423">
+                <caret line="27" column="92" lean-forward="true" selection-start-line="27" selection-start-column="92" selection-end-line="27" selection-end-column="92" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -80,12 +77,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Foundation/块元素和内联元素/inline元素的margin_padding特性/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="216">
-                <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+                <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -127,10 +124,10 @@
         <option value="$PROJECT_DIR$/HowTo/Justified_Button_Group/README.md" />
         <option value="$PROJECT_DIR$/W1D4/README.md" />
         <option value="$PROJECT_DIR$/Foundation/CSS样式层叠/README.md" />
-        <option value="$PROJECT_DIR$/Foundation/块元素和内联元素/README.md" />
         <option value="$PROJECT_DIR$/Foundation/块元素和内联元素/inline元素的margin_padding特性.html" />
         <option value="$PROJECT_DIR$/Foundation/块元素和内联元素/inline元素的margin_padding特性/inline元素的margin_padding特性.html" />
         <option value="$PROJECT_DIR$/Foundation/块元素和内联元素/inline元素的margin_padding特性/README.md" />
+        <option value="$PROJECT_DIR$/Foundation/块元素和内联元素/README.md" />
       </list>
     </option>
   </component>
@@ -301,7 +298,7 @@
       <workItem from="1508238767479" duration="9000" />
       <workItem from="1508283381343" duration="1777000" />
       <workItem from="1508371002346" duration="1242000" />
-      <workItem from="1508374128844" duration="3300000" />
+      <workItem from="1508374128844" duration="3387000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1508224751745</created>
@@ -429,11 +426,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508374468600</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update">
+      <created>1508377794057</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1508377794057</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22277000" />
+    <option name="totallyTimeSpent" value="22364000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -935,17 +939,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Foundation/块元素和内联元素/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="336">
-            <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Foundation/块元素和内联元素/inline元素的margin_padding特性/inline元素的margin_padding特性.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
@@ -958,7 +951,18 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="216">
-            <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundation/块元素和内联元素/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="423">
+            <caret line="27" column="92" lean-forward="true" selection-start-line="27" selection-start-column="92" selection-end-line="27" selection-end-column="92" />
             <folding />
           </first_editor>
           <second_editor />
