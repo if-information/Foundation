@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50292c58-4dc4-410f-b401-ebd3510b1745" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jd_navbar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jd_product.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foundation/块元素和内联元素/README.md" afterPath="$PROJECT_DIR$/Foundation/块元素和内联元素/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foundation/浮动/README.md" afterPath="$PROJECT_DIR$/Foundation/浮动/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,61 +31,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Foundation/外边距塌陷/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="288">
-                <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-                <folding>
-                  <marker date="1508232696000" expanded="true" signature="313:333" ph="..." />
-                  <marker date="1508232696000" expanded="false" signature="365:382" ph="..." />
-                  <marker date="1508232696000" expanded="true" signature="724:758" ph="..." />
-                  <marker date="1508232696000" expanded="true" signature="790:848" ph="{...}" />
-                  <marker date="1508232696000" expanded="true" signature="864:966" ph="{...}" />
-                  <marker date="1508232696000" expanded="true" signature="980:1109" ph="{...}" />
-                  <marker date="1508232696000" expanded="true" signature="1230:1288" ph="{...}" />
-                  <marker date="1508232696000" expanded="true" signature="1304:1469" ph="{...}" />
-                  <marker date="1508232696000" expanded="true" signature="1483:1612" ph="{...}" />
-                  <marker date="1508232696000" expanded="true" signature="1972:1991" ph="..." />
-                  <marker date="1508232696000" expanded="false" signature="2030:2068" ph="..." />
-                  <marker date="1508232696000" expanded="false" signature="2088:2104" ph="..." />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Foundation/块元素和内联元素/README.md">
+        <entry file="file://$PROJECT_DIR$/Foundation/浮动/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="374">
-                <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="inline元素的margin_padding特性.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Foundation/块元素和内联元素/inline元素的margin_padding特性/inline元素的margin_padding特性.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Foundation/块元素和内联元素/inline元素的margin_padding特性/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="216">
-                <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+              <first_editor relative-caret-position="288">
+                <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -128,6 +82,7 @@
         <option value="$PROJECT_DIR$/Foundation/块元素和内联元素/inline元素的margin_padding特性/inline元素的margin_padding特性.html" />
         <option value="$PROJECT_DIR$/Foundation/块元素和内联元素/inline元素的margin_padding特性/README.md" />
         <option value="$PROJECT_DIR$/Foundation/块元素和内联元素/README.md" />
+        <option value="$PROJECT_DIR$/Foundation/浮动/README.md" />
       </list>
     </option>
   </component>
@@ -212,19 +167,6 @@
               <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="块元素和内联元素" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="块元素和内联元素" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="inline元素的margin_padding特性" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -233,7 +175,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown.Preview" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -298,7 +240,7 @@
       <workItem from="1508238767479" duration="9000" />
       <workItem from="1508283381343" duration="1777000" />
       <workItem from="1508371002346" duration="1242000" />
-      <workItem from="1508374128844" duration="3831000" />
+      <workItem from="1508374128844" duration="6112000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1508224751745</created>
@@ -447,11 +389,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508378313588</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="update">
+      <created>1508378347586</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1508378347586</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22808000" />
+    <option name="totallyTimeSpent" value="25089000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -466,7 +415,7 @@
     <frame x="28" y="22" width="1252" height="778" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15785123" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14297521" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -648,16 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Foundation/浮动/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Foundation/响应式/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -683,16 +622,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="24">
             <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HowTo/Notes/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="240">
-            <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
@@ -929,6 +858,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Foundation/块元素和内联元素/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="360">
+            <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Foundation/外边距塌陷/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
@@ -972,11 +912,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Foundation/块元素和内联元素/README.md">
+    <entry file="file://$PROJECT_DIR$/HowTo/Notes/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="432">
+            <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <folding>
+              <marker date="1508222532000" expanded="true" signature="182:992" ph="..." />
+              <marker date="1508222532000" expanded="true" signature="189:649" ph="..." />
+              <marker date="1508222532000" expanded="true" signature="197:641" ph="..." />
+              <marker date="1508222532000" expanded="true" signature="230:281" ph="{...}" />
+              <marker date="1508222532000" expanded="true" signature="321:391" ph="{...}" />
+              <marker date="1508222532000" expanded="true" signature="403:473" ph="{...}" />
+              <marker date="1508222532000" expanded="true" signature="481:551" ph="{...}" />
+              <marker date="1508222532000" expanded="true" signature="563:633" ph="{...}" />
+              <marker date="1508222532000" expanded="true" signature="656:984" ph="..." />
+              <marker date="1508222532000" expanded="true" signature="693:747" ph="..." />
+              <marker date="1508222532000" expanded="true" signature="770:825" ph="..." />
+              <marker date="1508222532000" expanded="true" signature="845:897" ph="..." />
+              <marker date="1508222532000" expanded="true" signature="920:975" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundation/浮动/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="374">
-            <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+          <first_editor relative-caret-position="288">
+            <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
