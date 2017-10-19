@@ -31,7 +31,7 @@
     * 块级元素的 `margin` `padding` 水平和垂直方向都占用空间.  
 
 * 默认内容区的 `width` 和 `height`值
-    * 块元素的 `width` 即为父元素的宽度.
+    * 块元素的 `width` 默认为父元素的宽度.
     * inline元素的 `width` 是由内容"撑"开的.
     * 块元素的 `height` 是由内容"撑"开的.
     * inline元素的 `height` 是由内容"撑"开. 
