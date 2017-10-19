@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50292c58-4dc4-410f-b401-ebd3510b1745" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foundation/浮动/清除浮动方案三/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foundation/浮动/清除浮动方案三/clear_float_3.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foundation/浮动/README.md" afterPath="$PROJECT_DIR$/Foundation/浮动/README.md" />
     </list>
@@ -60,12 +58,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Foundation/浮动/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="567">
-                <caret line="41" column="60" lean-forward="true" selection-start-line="41" selection-start-column="60" selection-end-line="41" selection-end-column="60" />
+              <first_editor relative-caret-position="255">
+                <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -73,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Foundation/浮动/清除浮动方案三/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -148,9 +146,9 @@
         <option value="$PROJECT_DIR$/Foundation/浮动/文字绕流/README.md" />
         <option value="$PROJECT_DIR$/Foundation/浮动/清除浮动方案二/clear_float.html" />
         <option value="$PROJECT_DIR$/Foundation/浮动/清除浮动方案二/README.md" />
-        <option value="$PROJECT_DIR$/Foundation/浮动/README.md" />
         <option value="$PROJECT_DIR$/Foundation/浮动/清除浮动方案三/README.md" />
         <option value="$PROJECT_DIR$/Foundation/浮动/清除浮动方案三/clear_float_3.html" />
+        <option value="$PROJECT_DIR$/Foundation/浮动/README.md" />
       </list>
     </option>
   </component>
@@ -337,7 +335,7 @@
       <workItem from="1508238767479" duration="9000" />
       <workItem from="1508283381343" duration="1777000" />
       <workItem from="1508371002346" duration="1242000" />
-      <workItem from="1508374128844" duration="13204000" />
+      <workItem from="1508374128844" duration="13247000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1508224751745</created>
@@ -577,11 +575,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508400241778</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="update">
+      <created>1508400694025</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1508400694025</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32181000" />
+    <option name="totallyTimeSpent" value="32224000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1147,17 +1152,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Foundation/浮动/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="567">
-            <caret line="41" column="60" lean-forward="true" selection-start-line="41" selection-start-column="60" selection-end-line="41" selection-end-column="60" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Foundation/浮动/清除浮动方案二/clear_float.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -1189,6 +1183,17 @@
               <marker date="1508400689000" expanded="true" signature="811:935" ph="{...}" />
               <marker date="1508400689000" expanded="true" signature="953:1027" ph="{...}" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundation/浮动/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="255">
+            <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
