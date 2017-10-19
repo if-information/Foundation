@@ -2,7 +2,7 @@
 
 CSS代码部分
 ```css
- img {
+        img {
             float: right;
             margin: 0 0 10px 10px;
         }

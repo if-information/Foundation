@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50292c58-4dc4-410f-b401-ebd3510b1745" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/float_around_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/float_around_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/w3css.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foundation/浮动/文字绕流/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foundation/浮动/文字绕流/float_around.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foundation/浮动/README.md" afterPath="$PROJECT_DIR$/Foundation/浮动/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foundation/浮动/文字绕流/README.md" afterPath="$PROJECT_DIR$/Foundation/浮动/文字绕流/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,12 +28,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Foundation/浮动/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="360">
-                <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="240">
+                <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -46,19 +41,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Foundation/浮动/文字绕流/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="278">
-                <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+              <first_editor relative-caret-position="360">
+                <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
                 <folding>
-                  <marker date="1508399177000" expanded="true" signature="38:110" ph="{...}" />
-                  <marker date="1508399177000" expanded="true" signature="132:179" ph="{...}" />
-                  <marker date="1508399177000" expanded="true" signature="200:246" ph="{...}" />
-                  <marker date="1508399177000" expanded="true" signature="425:497" ph="{...}" />
-                  <marker date="1508399177000" expanded="true" signature="519:620" ph="{...}" />
-                  <marker date="1508399177000" expanded="true" signature="641:687" ph="{...}" />
+                  <marker date="1508399227000" expanded="true" signature="45:117" ph="{...}" />
+                  <marker date="1508399227000" expanded="true" signature="139:186" ph="{...}" />
+                  <marker date="1508399227000" expanded="true" signature="207:253" ph="{...}" />
+                  <marker date="1508399227000" expanded="true" signature="432:504" ph="{...}" />
+                  <marker date="1508399227000" expanded="true" signature="526:627" ph="{...}" />
+                  <marker date="1508399227000" expanded="true" signature="648:694" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -291,7 +286,7 @@
       <workItem from="1508238767479" duration="9000" />
       <workItem from="1508283381343" duration="1777000" />
       <workItem from="1508371002346" duration="1242000" />
-      <workItem from="1508374128844" duration="11696000" />
+      <workItem from="1508374128844" duration="11746000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1508224751745</created>
@@ -510,11 +505,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508383511584</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="update">
+      <created>1508399182557</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1508399182557</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30673000" />
+    <option name="totallyTimeSpent" value="30723000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1066,6 +1068,17 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Foundation/浮动/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="240">
+            <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Foundation/浮动/文字绕流/float_around.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1077,27 +1090,16 @@
     <entry file="file://$PROJECT_DIR$/Foundation/浮动/文字绕流/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="278">
-            <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-            <folding>
-              <marker date="1508399177000" expanded="true" signature="38:110" ph="{...}" />
-              <marker date="1508399177000" expanded="true" signature="132:179" ph="{...}" />
-              <marker date="1508399177000" expanded="true" signature="200:246" ph="{...}" />
-              <marker date="1508399177000" expanded="true" signature="425:497" ph="{...}" />
-              <marker date="1508399177000" expanded="true" signature="519:620" ph="{...}" />
-              <marker date="1508399177000" expanded="true" signature="641:687" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Foundation/浮动/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
           <first_editor relative-caret-position="360">
-            <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-            <folding />
+            <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <folding>
+              <marker date="1508399227000" expanded="true" signature="45:117" ph="{...}" />
+              <marker date="1508399227000" expanded="true" signature="139:186" ph="{...}" />
+              <marker date="1508399227000" expanded="true" signature="207:253" ph="{...}" />
+              <marker date="1508399227000" expanded="true" signature="432:504" ph="{...}" />
+              <marker date="1508399227000" expanded="true" signature="526:627" ph="{...}" />
+              <marker date="1508399227000" expanded="true" signature="648:694" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
