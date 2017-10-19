@@ -62,8 +62,8 @@
         <entry file="file://$PROJECT_DIR$/Foundation/浮动/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="255">
-                <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+              <first_editor relative-caret-position="375">
+                <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -335,7 +335,7 @@
       <workItem from="1508238767479" duration="9000" />
       <workItem from="1508283381343" duration="1777000" />
       <workItem from="1508371002346" duration="1242000" />
-      <workItem from="1508374128844" duration="13247000" />
+      <workItem from="1508374128844" duration="13299000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1508224751745</created>
@@ -582,11 +582,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508400694025</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="update">
+      <created>1508400735525</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1508400735525</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32224000" />
+    <option name="totallyTimeSpent" value="32276000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1191,8 +1198,8 @@
     <entry file="file://$PROJECT_DIR$/Foundation/浮动/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="255">
-            <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <first_editor relative-caret-position="375">
+            <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
             <folding />
           </first_editor>
           <second_editor />
