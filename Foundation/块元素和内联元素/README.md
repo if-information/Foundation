@@ -21,13 +21,20 @@
 * 格式
     * 块级元素会新起一行
     * 默认情况下，行内元素不会以新行开始
+    
 * 内容模型
     * 块级元素可以包含内联元素和其它块级元素
     * 行内元素只能包含数据和其他行内元素.
     
-* 内联元素的 `margin` `padding` 水平方向占用空间, 垂直方向不占用空间.[详见Demo](inline元素的margin_padding特性/README.md)
+* `margin` `padding` 表现
+    * 内联元素的 `margin` `padding` 水平方向占用空间, 垂直方向不占用空间.[详见Demo](inline元素的margin_padding特性/README.md)
+    * 块级元素的 `margin` `padding` 水平和垂直方向都占用空间.  
 
-* 块级元素的 `margin` `padding` 水平和垂直方向都占用空间.  
+* 默认内容区的 `width` 和 `height`值
+    * 块元素的 `width` 即为父元素的宽度.
+    * inline元素的 `width` 是由内容"撑"开的.
+    * 块元素的 `height` 是由内容"撑"开的.
+    * inline元素的 `height` 是由内容"撑"开. 
 
 
 ## 常用的块级元素
