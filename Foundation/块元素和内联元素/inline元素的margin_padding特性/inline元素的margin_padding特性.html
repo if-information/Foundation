@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>inline元素的margin padding特性</title>
+
+    <style>
+
+        p {
+            border: 3px solid gray;
+        }
+        span.p1 {
+            border: 1px solid red;
+            background-color: yellow;
+            background-clip: content-box;
+
+            /* 设置margin */
+            margin: 20px;
+
+            /* 设置padding */
+            padding: 30px;
+        }
+
+        span.p2 {
+            border: 1px solid red;
+            background-color: yellow;
+            background-clip: content-box;
+
+
+            /* 呈现为(行内)块元素  */
+            display: inline-block;
+
+            margin: 20px;
+            padding: 30px;
+
+        }
+    </style>
+
+</head>
+<body>
+
+
+
+<p>
+    In a tabbed browser, such as Firefox, each tab contains its own window object (and if you're writing an extension, the browser window itself is a separate window too - see Working with windows in chrome code for more <span class="p1">information</span>). That is, the window object is not shared between tabs in the same window. Some methods, namely window.resizeTo and window.resizeBy apply to the whole window and not to the specific tab the window object belongs to. Generally, anything that can't reasonably pertain to a tab pertains to the window instead.
+</p>
+
+<p>
+    In a tabbed browser, such as Firefox, each tab contains its own window object (and if you're writing an extension, the browser window itself is a separate window too - see Working with windows in chrome code for more <span class="p2">information</span>). That is, the window object is not shared between tabs in the same window. Some methods, namely window.resizeTo and window.resizeBy apply to the whole window and not to the specific tab the window object belongs to. Generally, anything that can't reasonably pertain to a tab pertains to the window instead.
+</p>
+
+
+
+</body>
+</html>
