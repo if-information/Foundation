@@ -20,7 +20,9 @@
 [Hero Image 代码清单](../HowTo/Hero_Image)
 
 
-![](../images/profilecard.gif)
+![](../images/profile_require.png)
 [Profile Card](../HowTo/Profile_Card)
 
+
+## 限时代码
 
