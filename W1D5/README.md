@@ -16,12 +16,12 @@
 * [CSS Layout - Horizontal Align](http://w3schools.bootcss.com/css/css_align.html)
 
 ## Demo演示
-![](../images/hero_image.png)<br>
+![](../images/hero_image.png) <br>
 [Hero Image 代码清单](../HowTo/Hero_Image)
 
 
-![](../images/profile_require.png)
-[Profile Card](../HowTo/Profile_Card)
+![](../images/profile_require.png) <br>
+[Profile Card 代码清单](../HowTo/Profile_Card)
 
 
 ## 限时代码
