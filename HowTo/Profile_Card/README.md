@@ -1,4 +1,3 @@
-![](profilecard.gif)
 
 ![](profile_require.png)
 

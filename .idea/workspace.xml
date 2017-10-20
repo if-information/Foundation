@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50292c58-4dc4-410f-b401-ebd3510b1745" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/profile_require.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HowTo/Profile_Card/profilecard.gif" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W1D5/README.md" afterPath="$PROJECT_DIR$/W1D5/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HowTo/Profile_Card/README.md" afterPath="$PROJECT_DIR$/HowTo/Profile_Card/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,13 +29,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/W1D5/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="494">
                 <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
                 <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HowTo/Profile_Card/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="518">
+                <caret line="85" column="3" lean-forward="true" selection-start-line="85" selection-start-column="3" selection-end-line="85" selection-end-column="3" />
+                <folding>
+                  <marker date="1508463527000" expanded="true" signature="71:1992" ph="..." />
+                  <marker date="1508463527000" expanded="true" signature="78:1249" ph="..." />
+                  <marker date="1508463527000" expanded="true" signature="260:1241" ph="..." />
+                  <marker date="1508463527000" expanded="true" signature="276:465" ph="{...}" />
+                  <marker date="1508463527000" expanded="true" signature="487:527" ph="{...}" />
+                  <marker date="1508463527000" expanded="true" signature="556:645" ph="{...}" />
+                  <marker date="1508463527000" expanded="true" signature="663:728" ph="{...}" />
+                  <marker date="1508463527000" expanded="true" signature="746:1045" ph="{...}" />
+                  <marker date="1508463527000" expanded="true" signature="1058:1159" ph="{...}" />
+                  <marker date="1508463527000" expanded="true" signature="1192:1229" ph="{...}" />
+                  <marker date="1508463527000" expanded="true" signature="1256:1984" ph="..." />
+                  <marker date="1508463527000" expanded="false" signature="1271:1288" ph="..." />
+                  <marker date="1508463527000" expanded="true" signature="1332:1974" ph="..." />
+                  <marker date="1508463527000" expanded="false" signature="1384:1394" ph="..." />
+                  <marker date="1508463527000" expanded="true" signature="1423:1967" ph="..." />
+                  <marker date="1508463527000" expanded="false" signature="1557:1572" ph="..." />
+                  <marker date="1508463527000" expanded="true" signature="1573:1823" ph="..." />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -107,8 +138,8 @@
         <option value="$PROJECT_DIR$/HowTo/Hero_Image/README.md" />
         <option value="$PROJECT_DIR$/HowTo/Hero_Image/hero_image.html" />
         <option value="$PROJECT_DIR$/HowTo/Profile_Card/profile_card.html" />
-        <option value="$PROJECT_DIR$/HowTo/Profile_Card/README.md" />
         <option value="$PROJECT_DIR$/W1D5/README.md" />
+        <option value="$PROJECT_DIR$/HowTo/Profile_Card/README.md" />
       </list>
     </option>
   </component>
@@ -186,6 +217,33 @@
             <path>
               <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="HowTo" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="HowTo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Profile_Card" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="HowTo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Skill_Bar" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="W1D1" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="W1D2" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
@@ -281,7 +339,7 @@
       <workItem from="1508283381343" duration="1777000" />
       <workItem from="1508371002346" duration="1242000" />
       <workItem from="1508374128844" duration="16262000" />
-      <workItem from="1508461535557" duration="1916000" />
+      <workItem from="1508461535557" duration="1949000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1508224751745</created>
@@ -570,11 +628,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508463320952</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="update">
+      <created>1508463497991</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1508463497991</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37155000" />
+    <option name="totallyTimeSpent" value="37188000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1053,35 +1118,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HowTo/Profile_Card/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="72">
-            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-            <folding>
-              <marker date="1508462712000" expanded="true" signature="92:2013" ph="..." />
-              <marker date="1508462712000" expanded="true" signature="99:1270" ph="..." />
-              <marker date="1508462712000" expanded="true" signature="281:1262" ph="..." />
-              <marker date="1508462712000" expanded="true" signature="297:486" ph="{...}" />
-              <marker date="1508462712000" expanded="true" signature="508:548" ph="{...}" />
-              <marker date="1508462712000" expanded="true" signature="577:666" ph="{...}" />
-              <marker date="1508462712000" expanded="true" signature="684:749" ph="{...}" />
-              <marker date="1508462712000" expanded="true" signature="767:1066" ph="{...}" />
-              <marker date="1508462712000" expanded="true" signature="1079:1180" ph="{...}" />
-              <marker date="1508462712000" expanded="true" signature="1213:1250" ph="{...}" />
-              <marker date="1508462712000" expanded="true" signature="1277:2005" ph="..." />
-              <marker date="1508462712000" expanded="false" signature="1292:1309" ph="..." />
-              <marker date="1508462712000" expanded="true" signature="1353:1995" ph="..." />
-              <marker date="1508462712000" expanded="false" signature="1405:1415" ph="..." />
-              <marker date="1508462712000" expanded="true" signature="1444:1988" ph="..." />
-              <marker date="1508462712000" expanded="false" signature="1578:1593" ph="..." />
-              <marker date="1508462712000" expanded="true" signature="1594:1844" ph="..." />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/W1D4/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1099,6 +1135,35 @@
           <first_editor relative-caret-position="494">
             <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HowTo/Profile_Card/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="518">
+            <caret line="85" column="3" lean-forward="true" selection-start-line="85" selection-start-column="3" selection-end-line="85" selection-end-column="3" />
+            <folding>
+              <marker date="1508463527000" expanded="true" signature="71:1992" ph="..." />
+              <marker date="1508463527000" expanded="true" signature="78:1249" ph="..." />
+              <marker date="1508463527000" expanded="true" signature="260:1241" ph="..." />
+              <marker date="1508463527000" expanded="true" signature="276:465" ph="{...}" />
+              <marker date="1508463527000" expanded="true" signature="487:527" ph="{...}" />
+              <marker date="1508463527000" expanded="true" signature="556:645" ph="{...}" />
+              <marker date="1508463527000" expanded="true" signature="663:728" ph="{...}" />
+              <marker date="1508463527000" expanded="true" signature="746:1045" ph="{...}" />
+              <marker date="1508463527000" expanded="true" signature="1058:1159" ph="{...}" />
+              <marker date="1508463527000" expanded="true" signature="1192:1229" ph="{...}" />
+              <marker date="1508463527000" expanded="true" signature="1256:1984" ph="..." />
+              <marker date="1508463527000" expanded="false" signature="1271:1288" ph="..." />
+              <marker date="1508463527000" expanded="true" signature="1332:1974" ph="..." />
+              <marker date="1508463527000" expanded="false" signature="1384:1394" ph="..." />
+              <marker date="1508463527000" expanded="true" signature="1423:1967" ph="..." />
+              <marker date="1508463527000" expanded="false" signature="1557:1572" ph="..." />
+              <marker date="1508463527000" expanded="true" signature="1573:1823" ph="..." />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
