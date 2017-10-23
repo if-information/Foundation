@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+
+        html {
+            height: 1000px;
+        }
+
+        div {
+            border: 1px solid red;
+        }
+
+        .out {
+            width: 400px;
+            height: 200px;
+            border: 1px solid blue;
+        }
+
+        .middle {
+            width: 300px;
+            height: 150px;
+            overflow: hidden;
+
+            position: relative;
+        }
+
+        .in {
+            width: 50px;
+            height: 50px;
+            background-color: red;
+
+            position: absolute;
+            right: 0;
+            bottom: 0;
+        }
+    </style>
+
+</head>
+<body>
+
+
+<div class="out">
+    <div class="middle">
+        <div class="in"></div>
+        <p>Because this technology's specification has not stabilized, check the compatibility table for usage in various browsers.</p>
+    </div>
+</div>
+
+</body>
+</html>
