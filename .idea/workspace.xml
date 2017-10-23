@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50292c58-4dc4-410f-b401-ebd3510b1745" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foundation/页面中常用的对齐布局/images/center-align-text.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foundation/页面中常用的对齐布局/images/center-image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foundation/页面中常用的对齐布局/images/center-vertical-padding.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foundation/页面中常用的对齐布局/images/left-right-align-position.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foundation/页面中常用的对齐布局/images/vertical-horizontal-align.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foundation/页面中常用的对齐布局/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foundation/页面中常用的对齐布局/images/vertical-horizontal-align.png" afterPath="$PROJECT_DIR$/Foundation/页面中常用的对齐布局/images/vertical-horizontal-align.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,12 +28,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Foundation/页面中常用的对齐布局/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="374">
-                <caret line="145" column="23" lean-forward="true" selection-start-line="145" selection-start-column="23" selection-end-line="145" selection-end-column="23" />
+              <first_editor relative-caret-position="398">
+                <caret line="146" column="29" lean-forward="true" selection-start-line="146" selection-start-column="29" selection-end-line="146" selection-end-column="29" />
                 <folding>
                   <marker date="1508752589000" expanded="true" signature="148:233" ph="{...}" />
                   <marker date="1508752589000" expanded="true" signature="381:437" ph="{...}" />
@@ -56,6 +51,34 @@
               </first_editor>
               <second_editor />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="center-vertical-padding.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Foundation/页面中常用的对齐布局/images/center-vertical-padding.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="center-align-text.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Foundation/页面中常用的对齐布局/images/center-align-text.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="left-right-align-position.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Foundation/页面中常用的对齐布局/images/left-right-align-position.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vertical-horizontal-align.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Foundation/页面中常用的对齐布局/images/vertical-horizontal-align.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -224,6 +247,13 @@
             <path>
               <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="页面中常用的对齐布局" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="W1D5" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -318,14 +348,7 @@
       <workItem from="1508542744890" duration="2540000" />
       <workItem from="1508548532408" duration="4605000" />
       <workItem from="1508721988897" duration="1645000" />
-      <workItem from="1508744104820" duration="7889000" />
-    </task>
-    <task id="LOCAL-00003" summary="update">
-      <created>1508226442229</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1508226442229</updated>
+      <workItem from="1508744104820" duration="7990000" />
     </task>
     <task id="LOCAL-00004" summary="update">
       <created>1508228349108</created>
@@ -663,11 +686,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508750407847</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="update">
+      <created>1508752593831</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1508752593831</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54309000" />
+    <option name="totallyTimeSpent" value="54410000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -682,7 +712,7 @@
     <frame x="28" y="22" width="1252" height="778" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16198348" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35041323" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -735,46 +765,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Foundation/CSS样式层叠/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="72">
-            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W1D2/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="456">
-            <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W1D1/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-2602">
-            <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Foundation/块元素和内联元素/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="360">
-            <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Foundation/外边距塌陷/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
@@ -1164,8 +1154,8 @@
     <entry file="file://$PROJECT_DIR$/Foundation/页面中常用的对齐布局/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="374">
-            <caret line="145" column="23" lean-forward="true" selection-start-line="145" selection-start-column="23" selection-end-line="145" selection-end-column="23" />
+          <first_editor relative-caret-position="398">
+            <caret line="146" column="29" lean-forward="true" selection-start-line="146" selection-start-column="29" selection-end-line="146" selection-end-column="29" />
             <folding>
               <marker date="1508752589000" expanded="true" signature="148:233" ph="{...}" />
               <marker date="1508752589000" expanded="true" signature="381:437" ph="{...}" />
@@ -1183,6 +1173,26 @@
           </first_editor>
           <second_editor />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundation/页面中常用的对齐布局/images/center-vertical-padding.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundation/页面中常用的对齐布局/images/center-align-text.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundation/页面中常用的对齐布局/images/left-right-align-position.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundation/页面中常用的对齐布局/images/vertical-horizontal-align.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
