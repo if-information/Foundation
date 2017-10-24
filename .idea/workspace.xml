@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50292c58-4dc4-410f-b401-ebd3510b1745" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HowTo/京东水果/images/fruit.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HowTo/京东水果/images/search.ele.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W2D2/images/fruit.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W2D2/images/search.ele.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jd_fruit/fruit01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jd_fruit/fruit02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jd_fruit/fruit03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jd_fruit/fruit04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jd_fruit/fruit05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jd_fruit/fruit06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jd_fruit/fruit07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jd_fruit/fruit08.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jd_fruit/fruit09.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jd_fruit/fruit10.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shuiguo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HowTo/京东水果/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HowTo/京东水果/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W2D2/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Foundation/Sprites/README.md" afterPath="$PROJECT_DIR$/Foundation/Sprites精灵图/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W2D2/README.md" afterPath="$PROJECT_DIR$/W2D2/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,7 +57,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HowTo/京东水果/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="652">
+            <state relative-caret-position="1128">
               <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -90,8 +72,8 @@
         <entry file="file://$PROJECT_DIR$/W2D2/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="495">
-                <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+              <first_editor relative-caret-position="566">
+                <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -253,13 +235,13 @@
             <path>
               <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="HowTo" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="jd_fruit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="HowTo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="京东水果" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
@@ -354,14 +336,7 @@
       <workItem from="1508548532408" duration="4605000" />
       <workItem from="1508721988897" duration="1645000" />
       <workItem from="1508744104820" duration="9276000" />
-      <workItem from="1508812524716" duration="831000" />
-    </task>
-    <task id="LOCAL-00006" summary="update">
-      <created>1508229500185</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1508229500185</updated>
+      <workItem from="1508812524716" duration="1047000" />
     </task>
     <task id="LOCAL-00007" summary="update">
       <created>1508230629877</created>
@@ -699,11 +674,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508752864055</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="update">
+      <created>1508813412554</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1508813412555</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56527000" />
+    <option name="totallyTimeSpent" value="56743000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1128,7 +1110,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HowTo/京东水果/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
+        <state relative-caret-position="1128">
           <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1141,8 +1123,8 @@
     <entry file="file://$PROJECT_DIR$/W2D2/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="495">
-            <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <first_editor relative-caret-position="566">
+            <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
             <folding />
           </first_editor>
           <second_editor />

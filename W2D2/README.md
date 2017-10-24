@@ -32,3 +32,6 @@
 ![](../images/jd_fruit/fruit08.png)
 ![](../images/jd_fruit/fruit09.png)
 ![](../images/jd_fruit/fruit10.gif)
+
+### 参考代码
+[京东水果](../HowTo/京东水果)
