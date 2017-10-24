@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>水果</title>
+    <style>
+
+
+        /* 通用样式 */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-size: 12px;
+            font-family: tahoma, arial, Microsoft YaHei, Hiragino Sans GB, sans-serif;
+            line-height: 150%;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        /* 整体 */
+        .item {
+            border: 1px solid #fff;
+            width: 240px;
+            padding: 38px 9px 20px;
+
+        }
+
+        .item:hover {
+            -webkit-box-shadow: 0 0 2px 2px #f8f8f8;
+            -moz-box-shadow: 0 0 2px 2px #f8f8f8;
+            box-shadow: 0 0 2px 2px #f8f8f8;
+            border: 1px solid #e9e9e9;
+        }
+
+        /* 价格 */
+        .item-price {
+            font-family: Verdana;
+            color: #e43937;
+            margin-top: 15px;
+            font-size: 20px;
+            line-height: 22px;
+        }
+
+        .item-price span {
+            font-size: 16px;
+        }
+
+        /* 描述 */
+        .item-description {
+
+            height: 40px;
+            margin: 8px 0;
+        }
+
+        .item-description a {
+            color: #666;
+
+        }
+
+        .item-description a span {
+            display: block;
+            height: 20px;
+            overflow: hidden;
+        }
+
+        .item-description a span:nth-child(2) {
+            width: 185px;
+            color: #ffaa71;
+        }
+
+        .item-description a:hover {
+            color: #C81623;
+        }
+
+        .item-evaluate {
+            margin-bottom: 9px;
+            color: #a7a7a7;
+
+        }
+
+        .item-evaluate a.number {
+            font-family: Verdana;
+            color: #646fb0;
+            font-weight: 700;
+        }
+
+        /* 自营 */
+        .item-property span {
+            height: 16px;
+            background-color: #E4393C;
+            padding: 0 2px;
+            margin-right: 3px;
+            color: #fff;
+        }
+
+        .item-car {
+            /*background-color: greenyellow;*/
+            margin-top: 12px;
+        }
+
+        .item-car::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        .item-car a {
+            display: block;
+            float: left;
+            color: #999;
+            border: 1px solid #ddd;
+            height: 27px;
+            width: 57px;
+            margin-left: -1px;
+            padding: 0 3px 0 26px;
+            line-height: 25px;
+            position: relative;
+
+            background-repeat: no-repeat;
+        }
+
+        .item-car a:nth-child(1) span {
+            display: inline-block;
+            width: 14px;
+            height: 14px;
+            border: 1px solid #ddd;
+            margin: 5px 5px 0 5px;
+            vertical-align: top;
+
+        }
+
+        .item-car a:nth-child(2) {
+            background-image: url("images/search.ele.png");
+            background-position: 3px -410px;
+            transition: background-position 0.15s;
+
+        }
+
+        .item-car a:nth-child(3) {
+            background-image: url("images/search.ele.png");
+            background-position: 3px -268px;
+
+        }
+
+        .item-car a:hover {
+            border-color: #e4393c;
+            color: #e4393c;
+            z-index: 1;
+        }
+
+        .item-car a:nth-child(2):hover {
+            background-position: 3px -434px;
+        }
+
+
+    </style>
+</head>
+<body>
+
+
+<div class="item">
+
+    <!-- 水果图片 -->
+    <div class="item-img">
+        <a href="#" target="_blank">
+            <img src="images/fruit.jpg" alt="" style="width: 220px; height: 220px;"
+                 title="【618销售王牌】【天天果园 海外直采】【新奇士品牌】【感恩返场】橙风破浪，酸甜多汁，维C满满！搭配优质新西兰柠檬，营养更佳，美美哒！">
+        </a>
+    </div>
+
+    <!-- 价钱 -->
+    <div class="item-price">
+
+        <span>¥</span>39.39
+
+
+    </div>
+
+    <!-- 详情 -->
+    <div class="item-description">
+        <a href="#" target="_blank" title="【618销售王牌】【天天果园 海外直采】【新奇士品牌】【感恩返场】橙风破浪，酸甜多汁，维C满满！搭配优质新西兰柠檬，营养更佳，美美哒！">
+            <span>优选100 新奇士美国进口夏橙 12个装 单果重约140-200g 新鲜水果</span>
+
+
+            <span class="more">【618销售王牌】【天天果园 海外直采】【新奇士品牌】【感恩返场】橙风破浪，酸甜多汁，维C满满！搭配优质新西兰柠檬，营养更佳，美美哒！</span>
+
+
+        </a>
+    </div>
+
+
+    <!-- 评价 -->
+    <div class="item-evaluate">
+        已有<a class="number">1.9万+</a>人评价
+    </div>
+
+    <!-- 自营 -->
+    <div class="item-property">
+        <span>自营</span>
+        <span>满减</span>
+    </div>
+
+    <!-- 加入购物车 -->
+    <div class="item-car">
+        <a href="#" style="padding-left: 0px;"><span></span>对比</a>
+        <a href="#"> 关注</a>
+        <a href="#" style="width: 96px; color: #e4393c;">加入购物车</a>
+    </div>
+
+</div>
+
+</body>
+</html>
