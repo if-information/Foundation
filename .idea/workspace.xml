@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50292c58-4dc4-410f-b401-ebd3510b1745" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HowTo/Tabs/images/tabs.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HowTo/Tabs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HowTo/Filter_Element/images/filter_element.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HowTo/Filter_List/images/filter_list.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/filter_element.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/filter_list.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HowTo/Filter_Element/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HowTo/Filter_Element/filter_element.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HowTo/Filter_List/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HowTo/Filter_List/filter_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W3D3/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,13 +35,13 @@
     <favorites_list name="Foundation" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/W2D5/README.md">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/W3D3/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="216">
-                <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -47,7 +54,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="264">
-                <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+                <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -64,29 +71,6 @@
                 <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HowTo/Tabs/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="48">
-                <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tabs.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HowTo/Tabs/tabs.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -113,12 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Foundation/块元素和内联元素/inline元素的margin_padding特性/README.md" />
-        <option value="$PROJECT_DIR$/Foundation/块元素和内联元素/README.md" />
-        <option value="$PROJECT_DIR$/Foundation/浮动/文字绕流/float_arount.html" />
-        <option value="$PROJECT_DIR$/Foundation/浮动/文字绕流/float_around.html" />
-        <option value="$PROJECT_DIR$/Foundation/浮动/文字绕流/README.md" />
-        <option value="$PROJECT_DIR$/Foundation/浮动/清除浮动方案二/clear_float.html" />
         <option value="$PROJECT_DIR$/Foundation/浮动/清除浮动方案二/README.md" />
         <option value="$PROJECT_DIR$/Foundation/浮动/清除浮动方案三/README.md" />
         <option value="$PROJECT_DIR$/Foundation/浮动/清除浮动方案三/clear_float_3.html" />
@@ -164,6 +142,12 @@
         <option value="$PROJECT_DIR$/HowTo/Tabs/tabs.html" />
         <option value="$PROJECT_DIR$/W3D2/README.md" />
         <option value="$PROJECT_DIR$/HowTo/Tabs/README.md" />
+        <option value="$PROJECT_DIR$/W3D03/README.md" />
+        <option value="$PROJECT_DIR$/HowTo/Filter_List/filter_list.html" />
+        <option value="$PROJECT_DIR$/HowTo/Filter_List/README.md" />
+        <option value="$PROJECT_DIR$/HowTo/Filter_Element/filter_element.html" />
+        <option value="$PROJECT_DIR$/HowTo/Filter_Element/README.md" />
+        <option value="$PROJECT_DIR$/W3D3/README.md" />
       </list>
     </option>
   </component>
@@ -242,29 +226,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="HowTo" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="HowTo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Tabs" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="W2D5" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
@@ -276,10 +243,16 @@
               <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="W3D2" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="W3D3" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -292,18 +265,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/HowTo/Tabs/images" />
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/HowTo/Progress_bar/images" />
-      <recent name="$PROJECT_DIR$/HowTo/BS_Webpage" />
-      <recent name="$PROJECT_DIR$/HowTo/css" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/HowTo/css" />
       <recent name="$PROJECT_DIR$/HowTo/js" />
       <recent name="$PROJECT_DIR$/Foundation/块元素和内联元素/inline元素的margin_padding特性" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HowTo/Filter_Element/images" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/HowTo/Filter_List/images" />
+      <recent name="$PROJECT_DIR$/HowTo/Tabs/images" />
+      <recent name="$PROJECT_DIR$/HowTo/Progress_bar/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -318,26 +291,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.tabs.html">
+  <component name="RunManager" selected="JavaScript Debug.filter_element.html">
     <configuration name="Webpage.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Foundation/HowTo/BS_Webpage/Webpage.html" />
-    <configuration name="blog.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Foundation/HowTo/BS_Blog/blog.html" />
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Foundation/HowTo/京东水果/index.html" />
+    <configuration name="filter_element.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Foundation/HowTo/Filter_Element/filter_element.html" />
+    <configuration name="filter_list.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Foundation/HowTo/Filter_List/filter_list.html" />
     <configuration name="portfolio.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Foundation/HowTo/BS_Portfolio/portfolio.html" />
     <configuration name="tabs.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Foundation/HowTo/Tabs/tabs.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.blog.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.portfolio.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Webpage.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.tabs.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.portfolio.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Webpage.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.tabs.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.filter_list.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.filter_element.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.tabs.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.portfolio.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Webpage.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.blog.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.filter_element.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.filter_list.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.tabs.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.portfolio.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Webpage.html" />
       </list>
     </recent_temporary>
   </component>
@@ -376,14 +349,8 @@
       <workItem from="1509105691969" duration="317000" />
       <workItem from="1509325420976" duration="871000" />
       <workItem from="1509326562155" duration="216000" />
-      <workItem from="1509412944346" duration="919000" />
-    </task>
-    <task id="LOCAL-00015" summary="update">
-      <created>1508284869984</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1508284869984</updated>
+      <workItem from="1509412944346" duration="943000" />
+      <workItem from="1509437463726" duration="1220000" />
     </task>
     <task id="LOCAL-00016" summary="update">
       <created>1508371917349</created>
@@ -721,11 +688,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509423407191</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="update">
+      <created>1509423740020</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1509423740020</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64804000" />
+    <option name="totallyTimeSpent" value="66048000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -740,7 +714,7 @@
     <frame x="28" y="22" width="1252" height="778" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19008264" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16859505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -793,15 +767,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/padding居中.html" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/shadow.html" />
-    <entry file="file://$PROJECT_DIR$/position.html" />
-    <entry file="file://$PROJECT_DIR$/images/pagination.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HowTo/RWD/rwd.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
@@ -1072,7 +1037,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="48">
             <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1092,7 +1056,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="424">
           <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1101,7 +1064,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="192">
             <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1112,17 +1074,16 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="240">
             <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W3D1/README.md">
+    <entry file="file://$PROJECT_DIR$/HowTo/Tabs/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="264">
-            <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <first_editor relative-caret-position="48">
+            <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1132,7 +1093,7 @@
     <entry file="file://$PROJECT_DIR$/W2D5/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="216">
+          <first_editor relative-caret-position="134">
             <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -1148,6 +1109,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HowTo/Filter_Element/filter_element.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HowTo/Filter_Element/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="72">
+            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HowTo/Filter_List/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="72">
+            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HowTo/Filter_List/filter_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-944">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/W3D2/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1159,11 +1158,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HowTo/Tabs/README.md">
+    <entry file="file://$PROJECT_DIR$/W3D1/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="48">
-            <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <first_editor relative-caret-position="264">
+            <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W3D3/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="216">
+            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
