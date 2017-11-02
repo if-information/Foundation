@@ -1,10 +1,10 @@
 ## 知识点
 
-> `Element.classList` 属性
-> `toggle` 方法
-> `nextElementSibling` 属性
->  CSS`max-height` 属性, JS对应的API `style.maxHeight`  
-> `Element.scrollHeight` 属性
+> * `Element.classList` 属性
+> * `toggle` 方法
+> * `nextElementSibling` 属性
+> * CSS`max-height` 属性, JS对应的API `style.maxHeight`  
+> * `Element.scrollHeight` 属性
 
 ## Demo
 ![](../images/collapsibles_accordion.gif)
