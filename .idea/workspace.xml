@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50292c58-4dc4-410f-b401-ebd3510b1745" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W3D4-D5/demo.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HowTo/Collapsibles_accordion/collapsibles_accordion.html" afterPath="$PROJECT_DIR$/HowTo/Collapsibles_accordion/collapsibles_accordion.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HowTo/Filter_Element/filter_element.html" afterPath="$PROJECT_DIR$/HowTo/Filter_Element/filter_element.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,12 +27,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/W4D1-D2/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="216">
-                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <first_editor relative-caret-position="518">
+                <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
                 <folding>
                   <marker date="1509933111000" expanded="true" signature="181:479" ph="..." />
                   <marker date="1509933111000" expanded="true" signature="181:543" ph="..." />
@@ -43,6 +40,19 @@
                   <marker date="1509933111000" expanded="true" signature="352:479" ph="..." />
                   <marker date="1509933111000" expanded="true" signature="489:526" ph="..." />
                 </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HowTo/Sort_list/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="24">
+                <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -66,8 +76,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="markdown" />
         <option value="HTML File" />
+        <option value="markdown" />
       </list>
     </option>
   </component>
@@ -83,7 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/HowTo/Top_Navigation/navigation.html" />
         <option value="$PROJECT_DIR$/HowTo/Pagination/pagination.html" />
         <option value="$PROJECT_DIR$/W1D5/README.md" />
@@ -134,6 +143,7 @@
         <option value="$PROJECT_DIR$/backcolor.html" />
         <option value="$PROJECT_DIR$/HowTo/Sort_list/sort_list.html" />
         <option value="$PROJECT_DIR$/W4D1-D2/README.md" />
+        <option value="$PROJECT_DIR$/HowTo/Sort_list/README.md" />
       </list>
     </option>
   </component>
@@ -231,6 +241,11 @@
               <item name="HowTo" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Sort_list" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="W4D1-D2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -255,11 +270,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HowTo/Sort_list/images" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/HowTo/Collapsibles_accordion/images" />
       <recent name="$PROJECT_DIR$/HowTo/Filter_Element/images" />
       <recent name="$PROJECT_DIR$/HowTo/Filter_List/images" />
-      <recent name="$PROJECT_DIR$/HowTo/Tabs/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -339,14 +354,7 @@
       <workItem from="1509608733816" duration="1265000" />
       <workItem from="1509669795702" duration="1732000" />
       <workItem from="1509680044146" duration="3767000" />
-      <workItem from="1509932366732" duration="672000" />
-    </task>
-    <task id="LOCAL-00022" summary="update">
-      <created>1508378347586</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1508378347586</updated>
+      <workItem from="1509932366732" duration="795000" />
     </task>
     <task id="LOCAL-00023" summary="update">
       <created>1508380940211</created>
@@ -684,11 +692,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509609464823</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="update">
+      <created>1509933121491</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1509933121492</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76154000" />
+    <option name="totallyTimeSpent" value="76277000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -703,7 +718,7 @@
     <frame x="28" y="22" width="1252" height="778" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17603306" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22809917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -756,11 +771,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Foundation/页面中常用的对齐布局/images/left-right-align-position.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Foundation/页面中常用的对齐布局/images/center-align-text.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1081,6 +1091,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1088,6 +1099,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1095,6 +1111,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1128,6 +1149,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/W4D1-D2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="518">
+            <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+            <folding>
+              <marker date="1509933111000" expanded="true" signature="181:479" ph="..." />
+              <marker date="1509933111000" expanded="true" signature="181:543" ph="..." />
+              <marker date="1509933111000" expanded="true" signature="235:479" ph="..." />
+              <marker date="1509933111000" expanded="true" signature="352:479" ph="..." />
+              <marker date="1509933111000" expanded="true" signature="489:526" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HowTo/Sort_list/sort_list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -1138,18 +1176,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W4D1-D2/README.md">
+    <entry file="file://$PROJECT_DIR$/HowTo/Sort_list/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="216">
-            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-            <folding>
-              <marker date="1509933111000" expanded="true" signature="181:479" ph="..." />
-              <marker date="1509933111000" expanded="true" signature="181:543" ph="..." />
-              <marker date="1509933111000" expanded="true" signature="235:479" ph="..." />
-              <marker date="1509933111000" expanded="true" signature="352:479" ph="..." />
-              <marker date="1509933111000" expanded="true" signature="489:526" ph="..." />
-            </folding>
+          <first_editor relative-caret-position="24">
+            <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
