@@ -37,7 +37,7 @@
 * [HTML Tables](http://w3schools.bootcss.com/html/html_tables.html)
 
 ## 限时代码(5min)
-![](../images_wiki/table.png)
+![](../images/table.png)
 
 ```html
 <!DOCTYPE html>
