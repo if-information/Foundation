@@ -9,15 +9,20 @@
 #### 4. CSS边框
 
 ## 代码清单
-* [CSS Box Model](http://w3schools.bootcss.com/css/css_boxmodel.html)
+* CSS盒子模型 [[英文]](http://w3schools.bootcss.com/css/css_boxmodel.html) [[中文]](http://www.runoob.com/css/css-boxmodel.html)
 
-* [CSS Borders](http://w3schools.bootcss.com/css/css_border.html)
+* CSS边框 [[英文]](http://w3schools.bootcss.com/css/css_border.html) [[中文]](http://www.runoob.com/css/css-border.html)
 
-* [CSS Margin](http://w3schools.bootcss.com/css/css_margin.html)
+* CSS外边距 [[英文]](http://w3schools.bootcss.com/css/css_margin.html) [[中文]](http://www.runoob.com/css/css-margin.html)
 
-* [CSS Padding](http://w3schools.bootcss.com/css/css_padding.html)
+* CSS内边距 [[英文]](http://w3schools.bootcss.com/css/css_padding.html) [[中文]](http://www.runoob.com/css/css-padding.html)
 
 ## 限时代码(每个3min内完成)
 * [Alert Buttons](../HowTo/Alert_Buttons/README.md)
 
+![](../images/alert_buttons.gif)
+
+
 * [Notes](../HowTo/Notes/README.md)
+
+![](../images/notes.png)

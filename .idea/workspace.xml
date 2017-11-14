@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="50292c58-4dc4-410f-b401-ebd3510b1745" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W1D1/README.md" afterPath="$PROJECT_DIR$/W1D1/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W1D2/README.md" afterPath="$PROJECT_DIR$/W1D2/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,12 +28,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/W1D1/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="312">
-                <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+              <first_editor relative-caret-position="432">
+                <caret line="16" column="117" lean-forward="true" selection-start-line="16" selection-start-column="117" selection-end-line="16" selection-end-column="117" />
                 <folding>
                   <marker date="1510625147805" expanded="true" signature="1579:2738" ph="..." />
                   <marker date="1510625147805" expanded="true" signature="1586:2102" ph="..." />
@@ -62,6 +62,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/W1D2/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="337">
+                <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -84,7 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Foundation/定位/static.html" />
         <option value="$PROJECT_DIR$/Foundation/定位/relative.html" />
         <option value="$PROJECT_DIR$/Foundation/定位/absolute.html" />
         <option value="$PROJECT_DIR$/Foundation/定位/fixed.html" />
@@ -135,6 +147,7 @@
         <option value="$PROJECT_DIR$/W5D2/README.html" />
         <option value="$PROJECT_DIR$/W5D2/README.md" />
         <option value="$PROJECT_DIR$/W1D1/README.md" />
+        <option value="$PROJECT_DIR$/W1D2/README.md" />
       </list>
     </option>
   </component>
@@ -153,8 +166,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="28" />
-    <option name="y" value="35" />
+    <option name="x" value="29" />
+    <option name="y" value="22" />
     <option name="width" value="1252" />
     <option name="height" value="765" />
   </component>
@@ -227,6 +240,16 @@
               <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="W1D1" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="W1D2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="W1D3" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -345,14 +368,7 @@
       <workItem from="1510123645513" duration="467000" />
       <workItem from="1510218692047" duration="918000" />
       <workItem from="1510538195155" duration="747000" />
-      <workItem from="1510624077704" duration="832000" />
-    </task>
-    <task id="LOCAL-00029" summary="update">
-      <created>1508382333501</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1508382333501</updated>
+      <workItem from="1510624077704" duration="2341000" />
     </task>
     <task id="LOCAL-00030" summary="update">
       <created>1508383479356</created>
@@ -690,11 +706,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510623580043</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="update">
+      <created>1510625152046</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1510625152046</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87013000" />
+    <option name="totallyTimeSpent" value="88522000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -706,7 +729,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="35" width="1252" height="765" extended-state="0" />
+    <frame x="29" y="22" width="1252" height="765" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12809917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -857,16 +880,6 @@
     <entry file="file://$PROJECT_DIR$/images/table.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W1D2/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="552">
-            <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/alert_buttons.gif">
@@ -1179,8 +1192,8 @@
     <entry file="file://$PROJECT_DIR$/W1D1/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="312">
-            <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <first_editor relative-caret-position="432">
+            <caret line="16" column="117" lean-forward="true" selection-start-line="16" selection-start-column="117" selection-end-line="16" selection-end-column="117" />
             <folding>
               <marker date="1510625147805" expanded="true" signature="1579:2738" ph="..." />
               <marker date="1510625147805" expanded="true" signature="1586:2102" ph="..." />
@@ -1203,6 +1216,17 @@
               <marker date="1510625147805" expanded="true" signature="2584:2646" ph="..." />
               <marker date="1510625147805" expanded="true" signature="2653:2712" ph="..." />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W1D2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="337">
+            <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
