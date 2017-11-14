@@ -12,29 +12,27 @@
 #### 6. 常用HTML属性 
 
 ## 代码清单
-* [HTML Introduction](http://w3schools.bootcss.com/html/html_intro.html)
+* HTML简介 [[英文]](http://w3schools.bootcss.com/html/html_intro.html) [[中文]](http://www.runoob.com/html/html-intro.html)
 
-* [HTML Basic](http://w3schools.bootcss.com/html/html_basic.html)
+* HTML基础 [[英文]](http://w3schools.bootcss.com/html/html_basic.html) [[中文]](http://www.runoob.com/html/html-basic.html)
 
-* [HTML Element](http://w3schools.bootcss.com/html/html_elements.html)
+* HTML元素 [[英文]](http://w3schools.bootcss.com/html/html_elements.html) [[中文]](http://www.runoob.com/html/html-elements.html)
 
-* [HTML Attributes](http://w3schools.bootcss.com/html/html_attributes.html)
+* HTML属性 [[英文]](http://w3schools.bootcss.com/html/html_attributes.html) [[中文]](http://www.runoob.com/html/html-attributes.html)
 
-* [HTML Headings](http://w3schools.bootcss.com/html/html_headings.html)
+* HTML标题 [[英文]](http://w3schools.bootcss.com/html/html_headings.html) [[中文]](http://www.runoob.com/html/html-headings.html)
 
-* [HTML Paragraphs](http://w3schools.bootcss.com/html/html_paragraphs.html)
+* HTML段落 [[英文]](http://w3schools.bootcss.com/html/html_paragraphs.html) [[中文]](http://www.runoob.com/html/html-paragraphs.html)
 
-* [HTML Styles](http://w3schools.bootcss.com/html/html_styles.html)
+* HTML文本格式化 [[英文]](http://w3schools.bootcss.com/html/html_formatting.html) [[中文]](http://www.runoob.com/html/html-formatting.html)
 
-* [HTML Formatting](http://w3schools.bootcss.com/html/html_formatting.html)
+* HTML颜色 [[英文]](http://w3schools.bootcss.com/html/html_colors.html) [[中文]](http://www.runoob.com/html/html-colors.html)
 
-* [HTML Colors](http://w3schools.bootcss.com/html/html_colors.html)
+* HTML链接 [[英文]](http://w3schools.bootcss.com/html/html_links.html) [[中文]](http://www.runoob.com/html/html-links.html)
 
-* [HTML Links](http://w3schools.bootcss.com/html/html_links.html)
+* HTML图像 [[英文]](http://w3schools.bootcss.com/html/html_images.html) [[中文]](http://www.runoob.com/html/html-images.html)
 
-* [HTML Images](http://w3schools.bootcss.com/html/html_images.html)
-
-* [HTML Tables](http://w3schools.bootcss.com/html/html_tables.html)
+* HTML表格 [[英文]](http://w3schools.bootcss.com/html/html_tables.html) [[中文]](http://www.runoob.com/html/html-tables.html)
 
 ## 限时代码(5min)
 ![](../images/table.png)
