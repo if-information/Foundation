@@ -2,6 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50292c58-4dc4-410f-b401-ebd3510b1745" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/aster.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/border.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/carnation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/daffodil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/flowericon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/jquery.v11.suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/lily.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/orchid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/peony.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/primula.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/rose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/snowdrop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 02.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 03.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 04.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 05.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 06.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 07.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 08.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 09.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 12.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 13.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 14.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 15.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 16.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 17.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 18.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 19.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 20.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 21.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 22.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/Listing 23.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/jquery-1.10.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/jquery-2.0.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/jquery.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/Chapter 06/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W5D3/README.md" afterPath="$PROJECT_DIR$/W5D3/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W5D4/README.md" afterPath="$PROJECT_DIR$/W5D4/README.md" />
@@ -29,12 +68,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/W5D3/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="520">
-                <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+              <first_editor relative-caret-position="409">
+                <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -55,12 +94,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/W5D4/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="384">
-                <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <first_editor relative-caret-position="457">
+                <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -139,8 +178,8 @@
         <option value="$PROJECT_DIR$/W1D1/README.md" />
         <option value="$PROJECT_DIR$/W1D2/README.md" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/cd75d323-83f3-4348-b81e-0c988d8758b7/console.sql" />
-        <option value="$PROJECT_DIR$/W5D3/README.md" />
         <option value="$PROJECT_DIR$/W5D4/README.md" />
+        <option value="$PROJECT_DIR$/W5D3/README.md" />
       </list>
     </option>
   </component>
@@ -269,11 +308,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/W5D3" />
       <recent name="$PROJECT_DIR$/W5D4" />
       <recent name="$PROJECT_DIR$/HowTo/Parallax_Scrolling" />
       <recent name="$PROJECT_DIR$/HowTo/Automatic_Slideshow/images" />
       <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/HowTo/Sort_list/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/W5D3" />
@@ -369,14 +408,7 @@
       <workItem from="1510218692047" duration="918000" />
       <workItem from="1510538195155" duration="747000" />
       <workItem from="1510624077704" duration="2401000" />
-      <workItem from="1510794778427" duration="7293000" />
-    </task>
-    <task id="LOCAL-00035" summary="update">
-      <created>1508400694025</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1508400694025</updated>
+      <workItem from="1510794778427" duration="8328000" />
     </task>
     <task id="LOCAL-00036" summary="update">
       <created>1508400735525</created>
@@ -714,11 +746,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510826093180</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="update">
+      <created>1510826641888</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1510826641889</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95875000" />
+    <option name="totallyTimeSpent" value="96910000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1207,22 +1246,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W5D3/README.md">
+    <entry file="file://$PROJECT_DIR$/W5D4/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="520">
-            <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <first_editor relative-caret-position="457">
+            <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W5D4/README.md">
+    <entry file="file://$PROJECT_DIR$/W5D3/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="384">
-            <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <first_editor relative-caret-position="409">
+            <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
