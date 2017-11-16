@@ -2,8 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50292c58-4dc4-410f-b401-ebd3510b1745" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/aster.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/border.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/carnation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/daffodil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/flowericon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/jquery.v11.suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/lily.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/orchid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/peony.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/primula.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/rose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/snowdrop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D3/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 02.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 03.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 04.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 05.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 06.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 07.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 08.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 09.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 12.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 13.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 14.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 15.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 16.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 17.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 18.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 19.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 20.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 21.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 22.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 23.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 24.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/jquery-1.10.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/jquery-2.0.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/jquery.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 05/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W1D2/README.md" afterPath="$PROJECT_DIR$/W1D2/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,46 +69,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/W1D1/README.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/W5D4/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="432">
-                <caret line="16" column="117" lean-forward="true" selection-start-line="16" selection-start-column="117" selection-end-line="16" selection-end-column="117" />
-                <folding>
-                  <marker date="1510625147805" expanded="true" signature="1579:2738" ph="..." />
-                  <marker date="1510625147805" expanded="true" signature="1586:2102" ph="..." />
-                  <marker date="1510625147805" expanded="true" signature="1594:2094" ph="..." />
-                  <marker date="1510625147805" expanded="true" signature="1602:1621" ph="{...}" />
-                  <marker date="1510625147805" expanded="true" signature="1665:1728" ph="{...}" />
-                  <marker date="1510625147805" expanded="true" signature="1758:1801" ph="{...}" />
-                  <marker date="1510625147805" expanded="true" signature="1866:1897" ph="{...}" />
-                  <marker date="1510625147805" expanded="true" signature="1960:1989" ph="{...}" />
-                  <marker date="1510625147805" expanded="true" signature="2036:2086" ph="{...}" />
-                  <marker date="1510625147805" expanded="true" signature="2109:2730" ph="..." />
-                  <marker date="1510625147805" expanded="true" signature="2118:2408" ph="..." />
-                  <marker date="1510625147805" expanded="true" signature="2125:2196" ph="..." />
-                  <marker date="1510625147805" expanded="true" signature="2203:2264" ph="..." />
-                  <marker date="1510625147805" expanded="true" signature="2271:2333" ph="..." />
-                  <marker date="1510625147805" expanded="true" signature="2340:2399" ph="..." />
-                  <marker date="1510625147805" expanded="true" signature="2431:2721" ph="..." />
-                  <marker date="1510625147805" expanded="true" signature="2438:2509" ph="..." />
-                  <marker date="1510625147805" expanded="true" signature="2516:2577" ph="..." />
-                  <marker date="1510625147805" expanded="true" signature="2584:2646" ph="..." />
-                  <marker date="1510625147805" expanded="true" signature="2653:2712" ph="..." />
-                </folding>
+              <first_editor relative-caret-position="289">
+                <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/W1D2/README.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/W5D1/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="337">
-                <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <first_editor relative-caret-position="576">
+                <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -97,8 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Foundation/定位/relative.html" />
-        <option value="$PROJECT_DIR$/Foundation/定位/absolute.html" />
         <option value="$PROJECT_DIR$/Foundation/定位/fixed.html" />
         <option value="$PROJECT_DIR$/Foundation/定位/README.md" />
         <option value="$PROJECT_DIR$/Foundation/Sticky定位/sticky.html" />
@@ -148,6 +166,8 @@
         <option value="$PROJECT_DIR$/W5D2/README.md" />
         <option value="$PROJECT_DIR$/W1D1/README.md" />
         <option value="$PROJECT_DIR$/W1D2/README.md" />
+        <option value="$PROJECT_DIR$/W5D3/README.md" />
+        <option value="$PROJECT_DIR$/W5D4/README.md" />
       </list>
     </option>
   </component>
@@ -166,7 +186,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="29" />
+    <option name="x" value="28" />
     <option name="y" value="22" />
     <option name="width" value="1252" />
     <option name="height" value="765" />
@@ -229,6 +249,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,28 +261,26 @@
             <path>
               <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="W1D1" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="W5D2" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="W1D2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="W5D3" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="W1D3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="W5D4" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -269,18 +289,18 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Library/WebServer/Documents/Github/Foundation/HowTo/Collapsibles_accordion/collapsibles_accordion.html" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/W5D4" />
+      <recent name="$PROJECT_DIR$/HowTo/Parallax_Scrolling" />
+      <recent name="$PROJECT_DIR$/HowTo/Automatic_Slideshow/images" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/HowTo/Sort_list/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/HowTo/css" />
       <recent name="$PROJECT_DIR$/HowTo/js" />
       <recent name="$PROJECT_DIR$/Foundation/块元素和内联元素/inline元素的margin_padding特性" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/HowTo/Parallax_Scrolling" />
-      <recent name="$PROJECT_DIR$/HowTo/Automatic_Slideshow/images" />
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/HowTo/Sort_list/images" />
-      <recent name="$PROJECT_DIR$/HowTo/Collapsibles_accordion/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -368,14 +388,8 @@
       <workItem from="1510123645513" duration="467000" />
       <workItem from="1510218692047" duration="918000" />
       <workItem from="1510538195155" duration="747000" />
-      <workItem from="1510624077704" duration="2341000" />
-    </task>
-    <task id="LOCAL-00030" summary="update">
-      <created>1508383479356</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1508383479356</updated>
+      <workItem from="1510624077704" duration="2401000" />
+      <workItem from="1510794778427" duration="2702000" />
     </task>
     <task id="LOCAL-00031" summary="update">
       <created>1508383511584</created>
@@ -713,11 +727,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510625152046</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="update">
+      <created>1510626971620</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1510626971620</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88522000" />
+    <option name="totallyTimeSpent" value="91284000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -729,10 +750,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="22" width="1252" height="765" extended-state="0" />
+    <frame x="28" y="22" width="1252" height="765" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12809917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1231405" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -785,37 +806,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HowTo/Collapsibles_accordion/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="24">
-            <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HowTo/To_Do_List/todolist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="127" column="26" lean-forward="false" selection-start-line="127" selection-start-column="26" selection-end-line="127" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HowTo/Filter_List/filter_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="66" column="5" lean-forward="false" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HowTo/Filter_Element/filter_element.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Foundation/盒模型/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -902,16 +892,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="72">
             <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W1D3/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="48">
-            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="10" selection-end-column="29" />
           </first_editor>
           <second_editor />
         </state>
@@ -1009,26 +989,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="528">
             <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W1D5/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="144">
-            <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W1D4/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="408">
-            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           </first_editor>
           <second_editor />
         </state>
@@ -1146,16 +1106,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="462">
-            <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/W3D2/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1172,50 +1122,56 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="48">
             <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W5D1/README.md">
+    <entry file="file://$PROJECT_DIR$/W2D2/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="576">
-            <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-            <folding />
+          <first_editor relative-caret-position="552">
+            <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W1D1/README.md">
+    <entry file="file://$PROJECT_DIR$/W2D1/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="432">
-            <caret line="16" column="117" lean-forward="true" selection-start-line="16" selection-start-column="117" selection-end-line="16" selection-end-column="117" />
-            <folding>
-              <marker date="1510625147805" expanded="true" signature="1579:2738" ph="..." />
-              <marker date="1510625147805" expanded="true" signature="1586:2102" ph="..." />
-              <marker date="1510625147805" expanded="true" signature="1594:2094" ph="..." />
-              <marker date="1510625147805" expanded="true" signature="1602:1621" ph="{...}" />
-              <marker date="1510625147805" expanded="true" signature="1665:1728" ph="{...}" />
-              <marker date="1510625147805" expanded="true" signature="1758:1801" ph="{...}" />
-              <marker date="1510625147805" expanded="true" signature="1866:1897" ph="{...}" />
-              <marker date="1510625147805" expanded="true" signature="1960:1989" ph="{...}" />
-              <marker date="1510625147805" expanded="true" signature="2036:2086" ph="{...}" />
-              <marker date="1510625147805" expanded="true" signature="2109:2730" ph="..." />
-              <marker date="1510625147805" expanded="true" signature="2118:2408" ph="..." />
-              <marker date="1510625147805" expanded="true" signature="2125:2196" ph="..." />
-              <marker date="1510625147805" expanded="true" signature="2203:2264" ph="..." />
-              <marker date="1510625147805" expanded="true" signature="2271:2333" ph="..." />
-              <marker date="1510625147805" expanded="true" signature="2340:2399" ph="..." />
-              <marker date="1510625147805" expanded="true" signature="2431:2721" ph="..." />
-              <marker date="1510625147805" expanded="true" signature="2438:2509" ph="..." />
-              <marker date="1510625147805" expanded="true" signature="2516:2577" ph="..." />
-              <marker date="1510625147805" expanded="true" signature="2584:2646" ph="..." />
-              <marker date="1510625147805" expanded="true" signature="2653:2712" ph="..." />
-            </folding>
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W1D5/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="144">
+            <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W1D4/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="384">
+            <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W1D3/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="121">
+            <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
@@ -1226,6 +1182,59 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="337">
             <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W1D1/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="432">
+            <caret line="16" column="117" lean-forward="true" selection-start-line="16" selection-start-column="117" selection-end-line="16" selection-end-column="117" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W5D3/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="505">
+            <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W5D1/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="576">
+            <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W5D4/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="289">
+            <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
             <folding />
           </first_editor>
           <second_editor />
