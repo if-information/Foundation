@@ -2,91 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50292c58-4dc4-410f-b401-ebd3510b1745" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/aster.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/border.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/carnation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/daffodil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/flowericon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/jquery.v11.suo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/lily.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/orchid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/peony.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/primula.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/rose.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/snowdrop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 05.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 06.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 07.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 08.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 09.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 10.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 11.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 12.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 13.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 14.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 15.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 16.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 17.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 18.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 19.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 20.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 21.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 22.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 23.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 24.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/Listing 25.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/jquery-1.10.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/jquery-2.0.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/jquery.sln" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W5D4/Chapter 07/styles.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 01.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 01.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 02.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 02.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 03.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 03.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 04.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 04.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 05.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 05.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 06.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 06.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 07.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 07.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 08.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 08.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 09.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 09.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 10.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 10.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 11.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 11.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 12.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 12.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 13.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 13.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 14.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 14.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 15.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 15.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 16.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 16.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 17.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 17.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 18.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 18.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 19.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 19.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 20.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 20.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 21.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 21.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 22.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 22.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 23.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 23.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/Listing 24.html" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/Listing 24.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/aster.png" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/aster.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/border.png" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/border.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/carnation.png" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/carnation.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/daffodil.png" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/daffodil.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/flowericon.png" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/flowericon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/jquery-1.10.1.js" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/jquery-1.10.1.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/jquery-2.0.2.js" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/jquery-2.0.2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/jquery.sln" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/jquery.sln" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/jquery.v11.suo" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/jquery.v11.suo" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/lily.png" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/lily.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/orchid.png" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/orchid.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/peony.png" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/peony.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/primula.png" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/primula.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/rose.png" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/rose.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/snowdrop.png" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/snowdrop.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/W5D4/Chapter 05/styles.css" afterPath="$PROJECT_DIR$/W5D3/Chapter 05/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W5D3/README.md" afterPath="$PROJECT_DIR$/W5D3/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/W5D4/README.md" afterPath="$PROJECT_DIR$/W5D4/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -142,8 +58,8 @@
         <entry file="file://$PROJECT_DIR$/W5D4/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="216">
-                <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <first_editor relative-caret-position="96">
+                <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -452,14 +368,7 @@
       <workItem from="1510218692047" duration="918000" />
       <workItem from="1510538195155" duration="747000" />
       <workItem from="1510624077704" duration="2401000" />
-      <workItem from="1510794778427" duration="6526000" />
-    </task>
-    <task id="LOCAL-00032" summary="update">
-      <created>1508399182557</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1508399182557</updated>
+      <workItem from="1510794778427" duration="6670000" />
     </task>
     <task id="LOCAL-00033" summary="update">
       <created>1508399233150</created>
@@ -797,11 +706,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510802187755</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="update">
+      <created>1510825954441</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1510825954441</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95108000" />
+    <option name="totallyTimeSpent" value="95252000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1304,8 +1220,8 @@
     <entry file="file://$PROJECT_DIR$/W5D4/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="216">
-            <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <first_editor relative-caret-position="96">
+            <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
