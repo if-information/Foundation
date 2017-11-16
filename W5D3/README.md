@@ -2,6 +2,8 @@
 
 > * jQuery 基础
 
+## jQuery 基础知识点清单
+
 问题| 解决方案| 代码清单|
 ---- |----| ----|
 如何把jQuery添加到HTML页面| 使用 `link` 元素导入保存在网站Web服务器或有个CDN上的jQuery库文件. 再添加一个 `script` 元素存放我们编写的jQuery代码| 1|
