@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50292c58-4dc4-410f-b401-ebd3510b1745" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/images/Monster_Mashup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/images/eyesstrip.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/images/frame.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/images/headsstrip.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/images/lightning-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/images/lightning-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/images/lightning-03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/images/mouthsstrip.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/images/nosesstrip.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/.idea/end.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/scripts/jquery-1.6.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/scripts/my_scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/Demo/styles/my_style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D1/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/W6D2/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,12 +51,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my_scripts.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="my_scripts.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/W6D1/Demo/scripts/my_scripts.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+              <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/W6D2/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="144">
+                <caret line="5" column="94" lean-forward="false" selection-start-line="5" selection-start-column="94" selection-end-line="5" selection-end-column="94" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -102,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Foundation/响应式开发原理/README.md" />
         <option value="$PROJECT_DIR$/Foundation/页面中常用的对齐布局/README.md" />
         <option value="$PROJECT_DIR$/Foundation/Sprites精灵图/README.md" />
         <option value="$PROJECT_DIR$/W2D2/README.md" />
@@ -153,6 +146,7 @@
         <option value="$PROJECT_DIR$/W5D5/README.md" />
         <option value="$PROJECT_DIR$/W6D1/README.md" />
         <option value="$PROJECT_DIR$/W6D1/Demo/scripts/my_scripts.js" />
+        <option value="$PROJECT_DIR$/W6D2/README.md" />
       </list>
     </option>
   </component>
@@ -235,6 +229,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,16 +237,10 @@
               <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="Foundation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Foundation" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="W6D1" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -370,14 +359,8 @@
       <workItem from="1510901860209" duration="1188000" />
       <workItem from="1510904445670" duration="8000" />
       <workItem from="1510904480158" duration="704000" />
-      <workItem from="1511144866465" duration="180000" />
-    </task>
-    <task id="LOCAL-00038" summary="update">
-      <created>1508400844144</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1508400844144</updated>
+      <workItem from="1511144866465" duration="225000" />
+      <workItem from="1511229360301" duration="112000" />
     </task>
     <task id="LOCAL-00039" summary="update">
       <created>1508401309064</created>
@@ -715,11 +698,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510838430764</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="update">
+      <created>1511145054635</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1511145054636</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102386000" />
+    <option name="totallyTimeSpent" value="102543000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -732,9 +722,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="28" y="22" width="1252" height="778" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17355372" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14049587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904148" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975206" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -788,16 +777,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HowTo/Sort_list/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="24">
-            <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/W3D4-D5/demo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
@@ -1235,8 +1214,19 @@
     <entry file="file://$PROJECT_DIR$/W6D1/Demo/scripts/my_scripts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W6D2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="144">
+            <caret line="5" column="94" lean-forward="false" selection-start-line="5" selection-start-column="94" selection-end-line="5" selection-end-column="94" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
