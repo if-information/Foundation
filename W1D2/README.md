@@ -18,7 +18,7 @@
 * CSS内边距 [[英文]](http://w3schools.bootcss.com/css/css_padding.html) [[中文]](http://www.runoob.com/css/css-padding.html)
 
 ## 限时代码(每个3min内完成)
-* [Alert Buttons](../HowTo/Alert_Buttons/README.md)
+* [Alert Buttons](..[]/HowTo/Alert_Buttons/README.md)
 
 ![](../images/alert_buttons.gif)
 

@@ -24,13 +24,13 @@
 
 ![](../images/top-navigation.gif)
 
-[Top Navigation 代码清单](../HowTo/Top_Navigation/README.md)
+[Top Navigation 代码清单](/HowTo/Top_Navigation/README.md)
 
 
 
 ![](../images/pagination.gif)
 
-[Pagination 代码清单](../HowTo/Pagination/README.md)
+[Pagination 代码清单](/HowTo/Pagination/README.md)
 
 
 ## 限时代码
