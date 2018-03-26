@@ -42,7 +42,7 @@ img {
 ```
 
 
-### 使用 `position` 使用左右对齐元素
+### 使用 `position` 左右对齐元素
 * 一种用于对齐元素的方法是使用 `position：absolute ;`
 ![](images/left-right-align-position.png)
 
